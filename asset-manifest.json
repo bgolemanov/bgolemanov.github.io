@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.829d4207.chunk.css",
-    "main.js": "/static/js/main.ca28d180.chunk.js",
-    "main.js.map": "/static/js/main.ca28d180.chunk.js.map",
+    "main.css": "/static/css/main.879f9a67.chunk.css",
+    "main.js": "/static/js/main.cc804e02.chunk.js",
+    "main.js.map": "/static/js/main.cc804e02.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.873af6e7.js",
     "runtime-main.js.map": "/static/js/runtime-main.873af6e7.js.map",
     "static/js/2.88f7bc8d.chunk.js": "/static/js/2.88f7bc8d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8e86edf9.chunk.js": "/static/js/3.8e86edf9.chunk.js",
     "static/js/3.8e86edf9.chunk.js.map": "/static/js/3.8e86edf9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.829d4207.chunk.css.map": "/static/css/main.829d4207.chunk.css.map",
+    "static/css/main.879f9a67.chunk.css.map": "/static/css/main.879f9a67.chunk.css.map",
     "static/js/2.88f7bc8d.chunk.js.LICENSE.txt": "/static/js/2.88f7bc8d.chunk.js.LICENSE.txt",
     "static/media/borciqta.8d525fa2.png": "/static/media/borciqta.8d525fa2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.873af6e7.js",
     "static/js/2.88f7bc8d.chunk.js",
-    "static/css/main.829d4207.chunk.css",
-    "static/js/main.ca28d180.chunk.js"
+    "static/css/main.879f9a67.chunk.css",
+    "static/js/main.cc804e02.chunk.js"
   ]
 }
